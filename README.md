@@ -1,2 +1,2 @@
 # C-Codes
-Basically sorting, searching, data analysis, trees and other algorthms
+Basically sorting, searching, data analysis, trees and other algorithms in c++.
